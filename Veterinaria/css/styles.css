@@ -1,0 +1,36 @@
+button{
+    background-color: lightgray !important;
+    border-color: black !important;
+    color: black !important;
+}
+#titulo{
+    color: black !important;
+}
+input{
+    border-color: black !important;
+    border-radius: 20px;
+}
+#Bordes{
+    border-color: black !important;
+    border-color: black ;
+}
+form{
+    border-color: black !important;
+    background-image: url("/img/IMG_7877.JPG");
+    
+    box-shadow: 10px 15px 30px black;
+    border-radius: 20px;
+}
+body{
+    background-image: url("/img/perritos.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;    
+    
+}
+ul,h2{
+    color: white;
+}
+#listaDatos{
+    box-shadow: 0 0 10px 7px rgba(255, 255, 255, 0.7) !important;
+
+}

@@ -1,0 +1,23 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+form{
+    height: 70vh;
+    background-color: transparent !important;
+    box-shadow: 10px 15px 30px black;
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    color: #157347;
+}
+body{
+    background-image: url("../img/IMG_7877.JPG");
+background-size: 100%;
+}
+button{
+    background-color: #08295E !important;
+}
+.w-100-text{
+    font-size: 10rem;
+}
